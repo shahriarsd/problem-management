@@ -2,6 +2,8 @@
 
 A Laravel application for recording problems, the image that shows them, and the solution that resolved each one.
 
+See [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md) for the architecture, key files, conventions, and do/don't guidelines.
+
 ## Features
 
 - Create, view, edit, and delete problem records with confirmation before deletion.
